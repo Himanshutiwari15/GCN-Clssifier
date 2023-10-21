@@ -65,4 +65,7 @@ Below we give some more information about the files in this directory:
 
 This project demonstrates the implementation of a Graph Neural Network on a terrorist attack dataset. It covers data preprocessing, model training, inference, and community analysis. The final results may include classification accuracies, community information, and visualization.
 
+## Collaborators
+- Avnish Singh - https://github.com/avnishs17
+- Himanshu Tiwari - https://github.com/Himanshutiwari15
 
