@@ -7,7 +7,8 @@ This project focuses on implementing a Graph Neural Network (GNN) for analyzing 
 ## Dataset Download
 
 The project begins by downloading the dataset from an external source. 
-This directory contains a subset of the data containing terrorism related information collected by the MIND Lab at UMD (http://www.mindswap.org/).
+This directory contains a subset of the data containing terrorism related information collected by the MIND Lab at UMD.
+Link for downloading the dataset - (https://linqs-data.soe.ucsc.edu/public/lbc/TerrorAttack.tgz)
 
 This subset of the dataset was designed for classification purposes and contains two types of information related to terrorism attack entities: the attributes of the entities and the links that connect various entities together to form a graph structure. Using the files in this directory one can construct two different graphs involving terrorist attacks, one based on co-located attacks and another, based on co-located attacks organized by the same terrorist organization. Please take a look at our paper (http://www.cs.umd.edu/~sen/pubs/sna2006/RelClzPIT.pdf) for more information about the experiment setup.
 
