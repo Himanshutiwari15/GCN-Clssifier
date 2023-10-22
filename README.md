@@ -1,4 +1,4 @@
-# Graphical convolutional network (GCN) Implementation on Terrorist Attack Dataset
+# Graphical Convolutional Network (GCN) Implementation on Terrorist Attack Dataset
 
 ## Introduction
 
