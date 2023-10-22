@@ -1,8 +1,8 @@
-# Graphical Neural Network (GNN) Implementation on Terrorist Attack Dataset
+# Graphical Neural Network (GCN) Implementation on Terrorist Attack Dataset
 
 ## Introduction
 
-This project focuses on implementing a Graph Neural Network (GNN) for analyzing a dataset related to terrorist attacks. The dataset contains two main components: information about the attack entities and the links connecting these entities to form a graph structure. The goal is to classify the attributes of these entities based on the provided data.
+This project focuses on implementing a Graph Neural Network (GCN) for analyzing a dataset related to terrorist attacks. The dataset contains two main components: information about the attack entities and the links connecting these entities to form a graph structure. The goal is to classify the attributes of these entities based on the provided data.
 
 ## Dataset Download
 
@@ -29,15 +29,15 @@ Below we give some more information about the files in this directory:
 
 4. Nodes (entities) and features are organized to create a graph structure for further analysis.
 
-## Graph Neural Network (GNN) Implementation
+## Graph convolutional networks (GCN) Implementation
 
-1. The GNN model is implemented using the DGL (Deep Graph Library) library. It is designed to work with graph-structured data.
+1. The GCN model is implemented using the DGL (Deep Graph Library) library. It is designed to work with graph-structured data.
 
 2. The graph is created using node features, labels, and adjacency information from the dataset.
 
 3. The dataset is split into training, validation, and test sets for model evaluation.
 
-4. A GNN model is defined, and training is carried out with the specified number of epochs and learning rate.
+4. A GCN model is defined, and training is carried out with the specified number of epochs and learning rate.
 
 5. The best validation and test accuracies are tracked during training.
 
