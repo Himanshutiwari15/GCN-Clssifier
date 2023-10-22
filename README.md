@@ -1,8 +1,8 @@
-# Graphical Neural Network (GCN) Implementation on Terrorist Attack Dataset
+# Graphical convolutional network (GCN) Implementation on Terrorist Attack Dataset
 
 ## Introduction
 
-This project focuses on implementing a Graph Neural Network (GCN) for analyzing a dataset related to terrorist attacks. The dataset contains two main components: information about the attack entities and the links connecting these entities to form a graph structure. The goal is to classify the attributes of these entities based on the provided data.
+This project focuses on implementing a Graph Convolutional Network (GCN) for analyzing a dataset related to terrorist attacks. The dataset contains two main components: information about the attack entities and the links connecting these entities to form a graph structure. The goal is to classify the attributes of these entities based on the provided data.
 
 ## Dataset Download
 
@@ -29,7 +29,7 @@ Below we give some more information about the files in this directory:
 
 4. Nodes (entities) and features are organized to create a graph structure for further analysis.
 
-## Graph convolutional networks (GCN) Implementation
+## Graph Convolutional Networks (GCN) Implementation
 
 1. The GCN model is implemented using the DGL (Deep Graph Library) library. It is designed to work with graph-structured data.
 
@@ -63,7 +63,7 @@ Below we give some more information about the files in this directory:
 
 ## Conclusion
 
-This project demonstrates the implementation of a Graph Neural Network on a terrorist attack dataset. It covers data preprocessing, model training, inference, and community analysis. The final results may include classification accuracies, community information, and visualization.
+This project demonstrates the implementation of a Graph Convolutional Network on a terrorist attack dataset. It covers data preprocessing, model training, inference, and community analysis. The final results may include classification accuracies, community information, and visualization.
 
 ## Collaborators
 - Avnish Singh - https://github.com/avnishs17
